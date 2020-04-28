@@ -34,3 +34,17 @@ Please refer to [example.py](https://github.com/jessicasena/WearableSensorDataGe
 
 ## License
 See [LICENSE](https://github.com/jessicasena/WearableSensorDataGenerator/blob/master/LICENSE).
+
+Please cite our paper in your publications if it helps your research.
+```bash
+@article{Jordao:2018,
+author    = {Artur Jordao,
+Antonio Carlos Nazare,
+Jessica Sena and
+William Robson Schwartz},
+title     = {Human Activity Recognition Based on Wearable Sensor Data: A Standardization of the State-of-the-Art},
+journal   = {arXiv},
+year      = {2018},
+eprint    = {1806.05226},
+}
+```
