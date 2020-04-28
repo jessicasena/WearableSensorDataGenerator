@@ -17,7 +17,7 @@ Currently, each dataset of the benchmark is available in a .npz file.  A drawbac
 
 ## Quick Start
 1. Clone this repository
-2. Runs
+2. Run
     ```bash
     python npz_to_fold.py -i <your/input/folder/> -o <your/output/folder/> -d <dataset1_name dataset2_name>
     ```
