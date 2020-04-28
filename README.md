@@ -33,4 +33,4 @@ Please refer to [example.py](https://github.com/jessicasena/WearableSensorDataGe
 
 
 ## License
-See [LICENSE](https://github.com/acnazarejr/igpu/blob/develop/LICENSE).
+See [LICENSE](https://github.com/jessicasena/WearableSensorDataGenerator/blob/master/LICENSE).
