@@ -23,8 +23,8 @@ Currently, each dataset of the benchmark is available in a .npz file.  A drawbac
     ```
 	For example
 	```bash
-   python npz_to_fold.py -i C:/Datasets/ -o C:/NewDatasets/ -d UTD-MHAD1_1s UTD-MHAD2_1s WHARF
-	    ```
+   python npz_to_fold.py -i Z:/Datasets/ -o Z:/NewDatasets/ -d UTD-MHAD1_1s UTD-MHAD2_1s WHARF
+   ```
 3. And, enjoy it!
 
 ## Example of Use
